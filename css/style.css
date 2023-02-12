@@ -61,7 +61,7 @@ img {
 
 /** Header **/ 
 .header {
-    background-image: ("../img/banner.jpg");
+    background-image: url("../img/banner.jpg");
     height: 60rem;
 }
 
